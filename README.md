@@ -21,7 +21,7 @@ This repository contains:
    - Push this repository to GitHub as `marketabc`.
    - In repository settings, enable GitHub Pages for the main branch.
    - Your app will be available at:  
-     `https://<your-username>.github.io/marketabc/`
+     `https://github.com/grupomultipc/marketabc/`
 
 ### Images for items
 - You can use any public image URL (e.g., from Unsplash or your own hosting) when adding productos.
